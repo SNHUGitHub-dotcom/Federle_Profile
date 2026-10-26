@@ -7,13 +7,13 @@ Professional Work Profile
   
     Highlights: transferring project from SQL to Python 
     
-Initial analysis performed to determine if a relationship exists between storm data and property crimes for the Miami Police Department. 
+Initial analysis performed to determine if a relationship exists between storm data and property crimes for the Miami Police Department. Project was requested in an attempt to predict crime and improve response rates.
 
   Artifact 2 | Secondary Storm Analysis correlation with crime for Miami Police Department 
   
     Highlights: transferring project from SQL to Python
     
-Secondary analysis performed to determine if a relationship exists between storm data and property crimes for the Miami Police Department. 
+Secondary analysis performed to determine if a relationship exists between storm data and property crimes for the Miami Police Department. Project was requested in an attempt to predict crime and improve response rate. 
 
   Artifact 3 | Marlow Shoe Excel Dashboard
   
