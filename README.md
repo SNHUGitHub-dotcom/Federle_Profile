@@ -35,18 +35,23 @@ In this school project scenario I worked as a data analyst for a real estate com
     
 In this school project scenario I worked as data analyst researching risk factors for heart disease at a university hospital. I had access to a large set of historical data so I could analyze patterns between different health indicators like fasting blood sugar or maximum heart rate and the presence of heart disease. I was asked to create different logistic regression models to predict whether or not a person is at risk for heart disease. This model has the potential to evaluate medical records and look for risks that might not be obvious to human doctors. I created a classification random forest model to predict the risk of heart disease and a regression random forest model to predict the maximum heart achieved. 
 
-  Artifact 6 |  
+  Artifact 6 |  Marlow Shoe Company Tableau Dashboard
+
+    Highlights: uses data set to create Interactive Tableau Dashboard
+
+In this project I found a mock data set for a shoe company. The data set contained variables like sales, shoe model, color, subtotals, etc. I used this data set to make a comprehensive interactive Tableau dashboard that analyzes the companies profitability and performance based on the sales and subtotals of shoes across different states, models, categories, colors, and months. The dashboard is interactive with users as they can click the different states and shoe categories to automatically adjust the board. 
 
 -Databases-
 
-  Artifact 7 |
+  Artifact 7 | Product Returns Analysis
+
+    Highlights | Using SQL to manipulate a database
+
+In this school project scenario I was asked to analyze a product returns (RMA) database using SQL and write a stakeholder report for a product manager. The SQL queries required me to analyze returns by state and product type. 
+
+  Artifact 8 | Company Merger
   
     Highlights: uses Python to manipulate and clean a database 
     
 In this school project scenario I uploaded the employee data file provided by a firm that was being acquired by the company I worked for as a data analyst. I was asked to perform some data profiling tasks to correct any issues in the data set. After the data cleaning steps were carried out I then performed some transformations to join the new data set with my company's data.  
 
-  Artifact 8 | Marlow Shoe Company Tableau Dashboard
-  
-    Highlights: uses data set to create Interactive Tableau Dashboard
-    
-In this project I found a mock data set for a shoe company. The data set contained variables like sales, shoe model, color, subtotals, etc. I used this data set to make a comprehensive interactive Tableau dashboard that analyzes the companies profitability and performance based on the sales and subtotals of shoes across different states, models, categories, colors, and months. The dashboard is interactive with users as they can click the different states and shoe categories to automatically adjust the board. 
